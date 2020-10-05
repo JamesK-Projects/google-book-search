@@ -1,0 +1,17 @@
+.searchbar{
+    background-color: rgb(161, 161, 161);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.filterbar{
+    background-color: lightgrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+hr{
+    margin: 0;
+}
