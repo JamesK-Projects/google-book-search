@@ -1,0 +1,20 @@
+img{
+    height: 400px;
+    width: 300px;
+}
+
+.group{
+    display: flex;
+    flex-direction: row;
+}
+
+.item-img{
+    flex: 1;
+    margin: 20px;
+}
+
+.item-info{
+    flex: 4;
+    margin: 20px;
+    text-align: center;
+}
